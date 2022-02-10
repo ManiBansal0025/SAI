@@ -1,0 +1,87 @@
+body{
+    margin:0px;
+}
+#header-color{
+    background-color: #CB4C4E;
+    height:200px;
+    width:100%;
+    margin-bottom:9px;
+}
+h3{
+    display:inline;
+    color: white;
+    font-family:sans-serif;
+    font-weight:bold;
+    font-size:30px;
+    position:relative;
+    left:20px;
+    bottom: 80px;
+}
+.login{
+    position: relative;
+    bottom: 80px;
+    left: 800px;
+    font-size: 20px;
+}
+.login {
+    color:white;
+    text-decoration: none;
+    margin: 0px 16px 16px 0px;
+}
+.login:hover{
+    color:#CB4C4E;
+    background-color:white;
+    
+}
+.header-list{
+    position:relative;
+    font-family:sans-serif;
+    bottom: 60px;
+    list-style-type:none;
+    text-align:center;
+}
+.header-list li{
+    display:inline-block;
+    margin: 0px 16px 16px 0px;
+}
+.header-list li a{
+    color:white;
+    text-decoration: none;
+}
+.header-list li a:hover{
+    color:#CB4C4E;
+    background-color:white;
+}
+.search-container{
+    float:right;
+    border:none;
+}
+.image-saree{
+    
+    display:inline;
+    margin: 25px 60px 10px 60px;
+    /* border:4px solid #CB4C4E; */
+}
+.Printed-saree{
+    
+    display:inline-block;
+    width: 200px;
+    margin: 15px 80px 15px 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+}
+.Price-Saree{
+    
+    display:inline-block;
+    width: 200px;
+    margin: 15px 80px 15px 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+    
+}
+.Saree a{
+    display:block;
+}
+
